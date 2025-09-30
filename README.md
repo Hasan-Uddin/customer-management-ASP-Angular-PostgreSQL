@@ -3,6 +3,9 @@
 - Angular
 - PostgreSQL
 
+## Operations
+- CRUD
+
 ## Tools/lib
 - @ng-bootstrap
 
