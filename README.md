@@ -1,3 +1,10 @@
+## Tech Stack
+- ASP.NET WEB API
+- Angular
+- PostgreSQL
+
+## Tools/lib
+- @ng-bootstrap
 
 ## Screenshots
 
