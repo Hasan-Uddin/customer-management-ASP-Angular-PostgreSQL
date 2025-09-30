@@ -1,5 +1,5 @@
 ## Tech Stack
-- ASP.NET WEB API
+- ASP.Net Core Web API
 - Angular
 - PostgreSQL
 
