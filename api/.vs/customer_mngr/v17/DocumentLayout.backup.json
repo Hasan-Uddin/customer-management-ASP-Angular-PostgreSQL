@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Defi\\Desktop\\dapple\\api\\customer_mngr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53B70D61-77F2-45EC-8ABC-2F1F0960FF8B}|customer_mngr\\customer_mngr.csproj|c:\\users\\defi\\desktop\\dapple\\api\\customer_mngr\\customer_mngr\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B70D61-77F2-45EC-8ABC-2F1F0960FF8B}|customer_mngr\\customer_mngr.csproj|solutionrelative:customer_mngr\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B70D61-77F2-45EC-8ABC-2F1F0960FF8B}|customer_mngr\\customer_mngr.csproj|c:\\users\\defi\\desktop\\dapple\\api\\customer_mngr\\customer_mngr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53B70D61-77F2-45EC-8ABC-2F1F0960FF8B}|customer_mngr\\customer_mngr.csproj|solutionrelative:customer_mngr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B70D61-77F2-45EC-8ABC-2F1F0960FF8B}|customer_mngr\\customer_mngr.csproj|c:\\users\\defi\\desktop\\dapple\\api\\customer_mngr\\customer_mngr\\models\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B70D61-77F2-45EC-8ABC-2F1F0960FF8B}|customer_mngr\\customer_mngr.csproj|solutionrelative:customer_mngr\\models\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B70D61-77F2-45EC-8ABC-2F1F0960FF8B}|customer_mngr\\customer_mngr.csproj|c:\\users\\defi\\desktop\\dapple\\api\\customer_mngr\\customer_mngr\\models\\addcustomerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B70D61-77F2-45EC-8ABC-2F1F0960FF8B}|customer_mngr\\customer_mngr.csproj|solutionrelative:customer_mngr\\models\\addcustomerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B70D61-77F2-45EC-8ABC-2F1F0960FF8B}|customer_mngr\\customer_mngr.csproj|c:\\users\\defi\\desktop\\dapple\\api\\customer_mngr\\customer_mngr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B70D61-77F2-45EC-8ABC-2F1F0960FF8B}|customer_mngr\\customer_mngr.csproj|solutionrelative:customer_mngr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Defi\\Desktop\\dapple\\api\\customer_mngr\\customer_mngr\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "customer_mngr\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Defi\\Desktop\\dapple\\api\\customer_mngr\\customer_mngr\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "customer_mngr\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAywBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:18:20.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Defi\\Desktop\\dapple\\api\\customer_mngr\\customer_mngr\\Program.cs",
+              "RelativeDocumentMoniker": "customer_mngr\\Program.cs",
+              "ToolTip": "C:\\Users\\Defi\\Desktop\\dapple\\api\\customer_mngr\\customer_mngr\\Program.cs",
+              "RelativeToolTip": "customer_mngr\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:09:46.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Defi\\Desktop\\dapple\\api\\customer_mngr\\customer_mngr\\appsettings.json",
+              "RelativeDocumentMoniker": "customer_mngr\\appsettings.json",
+              "ToolTip": "C:\\Users\\Defi\\Desktop\\dapple\\api\\customer_mngr\\customer_mngr\\appsettings.json",
+              "RelativeToolTip": "customer_mngr\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T14:16:23.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCustomerRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Defi\\Desktop\\dapple\\api\\customer_mngr\\customer_mngr\\Models\\AddCustomerRequestDTO.cs",
+              "RelativeDocumentMoniker": "customer_mngr\\Models\\AddCustomerRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Defi\\Desktop\\dapple\\api\\customer_mngr\\customer_mngr\\Models\\AddCustomerRequestDTO.cs",
+              "RelativeToolTip": "customer_mngr\\Models\\AddCustomerRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:36:52.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Defi\\Desktop\\dapple\\api\\customer_mngr\\customer_mngr\\Models\\Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "customer_mngr\\Models\\Domain\\Customer.cs",
+              "ToolTip": "C:\\Users\\Defi\\Desktop\\dapple\\api\\customer_mngr\\customer_mngr\\Models\\Domain\\Customer.cs",
+              "RelativeToolTip": "customer_mngr\\Models\\Domain\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:36:49.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
